@@ -6,103 +6,78 @@ My Networking Projects &amp; Practical Configurations Portfolio by Arham Ali Asi
 ---
 
 ## 🧑‍💻 About Me  
-I am a passionate Network Support & Operations trainee with hands-on experience in Cisco networking, MikroTik configuration, VLAN management, subnetting, and troubleshooting.  
+I am a passionate Networking & IT Support trainee with hands-on experience in Cisco networking, MikroTik configuration, VLAN management, subnetting, and troubleshooting.  
 Currently completing my internship at **BD Calling Academy (Betopia Group)** and developing real-world networking projects using Cisco Packet Tracer, MikroTik RouterOS, and various network tools.
 
 ---
 
 ## 🚀 Skills & Expertise
 
-### 🔹 **Networking Fundamentals**
-- OSI Model, TCP/IP Model  
-- ARP, ICMP, DHCP, DNS  
-- Static & Dynamic Routing  
-- RIP v1/v2, OSPF (Basic)  
+### 🔹 Networking Fundamentals
+- OSI Model, TCP/IP Model, ARP, ICMP, DHCP, DNS  
+- Static & Dynamic Routing (RIP, OSPF)  
+- VLAN, Inter-VLAN Routing  
 - Subnetting & IP Address Planning  
 
-### 🔹 **Cisco Networking**
-- Router & Switch Basic Configuration  
-- VLAN & Inter-VLAN Routing  
-- Access & Trunk Port Configuration  
+### 🔹 Cisco Networking
+- Router & Switch Configuration  
+- Access & Trunk Ports  
+- STP / RSTP  
 - DHCP Server Setup  
-- Port Security (Basic)  
-- STP / RSTP fundamentals  
-- WAN, LAN, Static Route setups  
-- Packet Tracer Project Building  
+- Port Security (Sticky MAC)  
+- WAN / LAN Setup (Static IP, PPPoE)  
+- Packet Tracer Labs  
 
-### 🔹 **MikroTik (RouterOS)**
+### 🔹 MikroTik (RouterOS)
 - WAN + LAN Setup  
 - NAT Masquerade  
 - Firewall Filter Rules (Basic)  
-- Queue (Simple Bandwidth Control)  
 - DHCP Server Setup  
 - Bridge Setup  
-- Winbox Configuration & Backup  
+- Winbox Backup & Restore  
 
-### 🔹 **Troubleshooting Skills**
-- No internet issue solving  
-- IP conflict detection & fix  
-- DNS / Gateway error fix  
-- Cabling & physical connectivity check  
-- Traceroute / Ping diagnostics  
-- Router & Switch basic health check  
-
-### 🔹 **Other Essential Skills**
-- Network Diagram Design  
-- Documentation & Reporting  
-- Basic Linux Networking  
-- Wi-Fi configuration  
-- CCTV IP setup (basic)
-
----
-
-## 📁 Networking Projects
-
-### **1️⃣ Office Network Setup – VLAN + Inter-VLAN Routing**
-**Tools:** Cisco Packet Tracer  
-**Work Done:**  
-- 3 VLAN created  
-- Router-on-a-stick  
-- DHCP Server integrated  
-- Trunk & Access port setup  
-**Result:** All departments communicated successfully.  
-➡ *File:* `/Routing/office-vlan.pkt`
-
----
-
-### **2️⃣ MikroTik Basic Configuration**
-**Tools:** MikroTik RouterOS (Winbox)  
-**Work Done:**  
-- WAN + LAN Setup  
-- NAT Masquerade  
-- DHCP Server  
-- Firewall basic rules  
-**Result:** Stable & secure network connectivity.  
-➡ *File:* `/MikroTik/basic-config.rsc`
-
----
-
-### **3️⃣ Subnetting & IP Plan for Small Office**
-**Work Done:**  
-- /24 → /27 Subnetting  
-- Gateway & DHCP Allocation Plan  
-- IP distribution table  
-➡ *File:* `/Subnetting/ip-plan.pdf`
-
----
-
-### **4️⃣ Troubleshooting Case Studies**
-- Internet not working → DNS fixed  
-- IP conflict resolved  
+### 🔹 Troubleshooting
+- Internet not working → DNS / Gateway fix  
+- IP conflict detection & resolution  
 - Slow network → Loop detection  
-- Wrong gateway → Corrected  
-➡ *Folder:* `/Troubleshooting/`
+- Cabling & physical connectivity check  
 
 ---
 
-## 📊 Network Diagrams  
-All network topology diagrams (VLAN, Routing, Office Design) are available here:  
-➡ `/Diagrams/`
+## 📁 Projects
+
+### **Routing Projects (Cisco)**
+- office-vlan-intervlan.pkt  
+- static-routing-example.pkt  
+- rip-routing-example.pkt  
+- ospf-basic-example.pkt  
+
+### **Switching Projects (Cisco)**
+- vlan-setup-basic.pkt  
+- trunk-access-config.pkt  
+- stp-rstp-demo.pkt  
+
+### **Subnetting & IP Planning**
+- class-c-subnetting.pdf  
+- ip-plan-small-office.pdf  
+- vlsm-example.pdf  
+
+### **MikroTik Projects**
+- basic-config.rsc  
+- nat-masquerade-config.rsc  
+- dhcp-server-setup.rsc  
+- firewall-basic-filter.rsc  
+
+### **Troubleshooting**
+- dns-issue-fix.md  
+- ip-conflict-case.md  
+- no-internet-gateway-issue.md  
+- slow-network-loop-detection.md  
+
+### **Diagrams**
+- office-network-topology.png  
+- vlan-design.png  
+- cisco-office-topology.png  
 
 ---
 
@@ -113,10 +88,8 @@ All network topology diagrams (VLAN, Routing, Office Design) are available here:
 - End-user troubleshooting  
 - IP address setup & Wi-Fi configuration  
 - Router/Switch basic setup  
-- Packet Tracer design  
+- Packet Tracer & MikroTik config projects  
 - Documentation & reporting  
-- Mikrotik config assistance  
-- Device checking & cable testing  
 
 ---
 
@@ -124,8 +97,8 @@ All network topology diagrams (VLAN, Routing, Office Design) are available here:
 - Cisco Packet Tracer  
 - MikroTik Winbox  
 - Wireshark  
-- Angry IP Scanner  
-- Google Docs, Notion  
+- Netdiscover / Angry IP Scanner  
+- Notion / Google Docs  
 - Visual Studio Code  
 
 ---
